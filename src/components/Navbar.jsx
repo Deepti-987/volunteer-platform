@@ -47,7 +47,7 @@ export default function Navbar() {
           <Radio size={16} className="text-white" />
         </div>
         <div>
-          <h1 className="font-heading text-white font-bold text-sm leading-none">SENTINEL</h1>
+          <h1 className="font-heading text-white font-bold text-sm leading-none">VolunteerOps</h1>
           <p className="text-slate-400 text-xs mt-0.5">Volunteer Platform</p>
         </div>
       </div>
