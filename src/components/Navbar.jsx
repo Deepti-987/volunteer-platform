@@ -141,7 +141,7 @@ export default function Navbar() {
           <div className="w-7 h-7 rounded-md bg-blue-500 flex items-center justify-center">
             <Radio size={13} className="text-white" />
           </div>
-          <span className="font-heading font-bold text-white text-sm">SENTINEL</span>
+          <span className="font-heading font-bold text-white text-sm">VolunteerOps</span>
         </div>
         <div className="flex items-center gap-2">
           <NotificationBell />
