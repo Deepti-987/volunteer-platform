@@ -1,4 +1,4 @@
-# SENTINEL — Global Volunteer Coordination Platform
+# VolunteerOps — Global Volunteer Coordination Platform
 
 A production-ready frontend-only SaaS platform for coordinating volunteer responders in emergency situations. Built with React + Vite + Supabase.
 
