@@ -1,5 +1,5 @@
 -- ============================================================
--- volunteerOps — Global Volunteer Coordination Platform
+-- VolunteerOps — Global Volunteer Coordination Platform
 -- Complete Supabase SQL Schema
 -- Run this entire file in Supabase SQL Editor → New Query
 -- ============================================================
