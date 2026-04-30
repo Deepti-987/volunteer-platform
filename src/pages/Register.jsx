@@ -32,7 +32,7 @@ export default function Register() {
           <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-blue-500 shadow-lg shadow-blue-500/30 mb-4">
             <Radio size={26} className="text-white" />
           </div>
-          <h1 className="font-heading text-white text-2xl font-bold">SENTINEL</h1>
+          <h1 className="font-heading text-white text-2xl font-bold">VolunteerOps</h1>
           <p className="text-slate-400 text-sm mt-1">Join the volunteer network</p>
         </div>
 
